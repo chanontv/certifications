@@ -12,8 +12,15 @@
 
 ![image](https://github.com/chanontv/my-certifications/blob/main/python-basic-hackerrank.png?raw=true)
 
-
 ### SQL (Basic) on Hackerrank
 
 ![image](https://github.com/chanontv/my-certifications/blob/main/sql-basic-hackerrank.png?raw=true)
+
+### SQL (Intermediate) on Hackerrank
+
+![image](https://github.com/chanontv/my-certifications/blob/main/sql-intermediate.png?raw=true)
+
+### Problem Solving (Basic) on Hackerrank
+
+![image](https://github.com/chanontv/my-certifications/blob/main/problem-solving-basic.png?raw=true)
 
